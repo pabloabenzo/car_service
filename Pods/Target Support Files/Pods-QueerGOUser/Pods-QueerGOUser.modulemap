@@ -1,0 +1,6 @@
+framework module Pods_QueerGOUser {
+  umbrella header "Pods-QueerGOUser-umbrella.h"
+
+  export *
+  module * { export * }
+}

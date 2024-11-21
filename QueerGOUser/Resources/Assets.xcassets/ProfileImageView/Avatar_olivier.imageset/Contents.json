@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Avatar_olivier.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
